@@ -1,0 +1,15 @@
+body {
+    padding: 0rem 1rem;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.m-8 {
+    margin: 0.5rem;
+}
+
+.d-inline-block {
+    display: inline-block;
+}
